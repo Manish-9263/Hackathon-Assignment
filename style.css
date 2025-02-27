@@ -276,7 +276,6 @@ body {
  footer {
      width: 1445px;
      height: 90px;
-     top: 1510px;
      left: 1px;
      color: #d9d9d9;
      text-align: center;
@@ -368,6 +367,9 @@ body {
     .register {
       width: 60%;
      }
+      .scroll-slider{
+          width: 435px;
+      }
      .contain .light{
       position: relative;
       top: -100px;
